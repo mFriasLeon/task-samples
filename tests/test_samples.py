@@ -53,7 +53,7 @@ def test_get_samples():
 
             
 def test_get_sample_error():
-    """checking if a put a sample_name which is not in the databaseeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+    """checking if a put a sample_name which is not in the database
     """
     monitored_id = "1"
     name = "colon"

@@ -1,4 +1,9 @@
 
+"""Naralabs task: Managing samples.
+
+Service layer to call database
+"""
+
 from database.connection import db_connection, naralabs_db
 from bson import ObjectId
 
